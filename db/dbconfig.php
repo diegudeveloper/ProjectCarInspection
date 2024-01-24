@@ -1,6 +1,6 @@
 <?php
-
     $servidor = 'localhost';
-    $database = 'carinspection';
-    //AQUI
+    $database = 'carsinspection';
+    $user = 'root';
+    $pass = '';
 ?>
